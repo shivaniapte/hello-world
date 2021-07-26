@@ -1,2 +1,2 @@
-<h1> Docker1 is running</h1>
+<h1> Docker2 is running</h1>
 
